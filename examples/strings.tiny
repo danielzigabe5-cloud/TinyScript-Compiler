@@ -1,0 +1,3 @@
+let first = "Hello"
+let second = "TinyScript"
+print(first + " " + second)

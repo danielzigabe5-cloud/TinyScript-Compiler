@@ -1,0 +1,4 @@
+let score = 90
+print(score)
+score = "Excellent"
+print(score)
